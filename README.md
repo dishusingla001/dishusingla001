@@ -6,7 +6,7 @@
   Let's Connect and have a Chat!💬
 </h1>
 
-<h1>Hi 👋, I'm Dishu Singla</h1>
+<h1>I'm Dishu Singla</h1>
 <h3 align="center">"Turning Ideas into Code | Innovating Every Day"</h3>
 
 <img align="right" margin-bottom="3px" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
