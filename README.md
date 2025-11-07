@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Dishu Singla</h1>
+<img width="480" height="360" alt="image" src="https://github.com/user-attachments/assets/91b8625b-eb51-489e-8012-f6075af57800" /><h1 align="center">Hi 👋, I'm Dishu Singla</h1>
 <h3 align="center">"Turning Ideas into Code | Innovating Every Day"</h3>
+
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw0KdBB8yitvvKXiRF6NbFE7&ust=1762603075548000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJj02KP-35ADFQAAAAAdAAAAABA1"></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dishusingla001&label=Profile%20views&color=0e75b6&style=flat" alt="dishusingla001" /> </p>
 
