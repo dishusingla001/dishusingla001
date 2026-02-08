@@ -15,7 +15,7 @@
 
 <p align="left"> <a href="https://twitter.com/dishu_singla01" target="blank"><img src="https://img.shields.io/twitter/follow/dishu_singla01?logo=twitter&style=for-the-badge" alt="dishu_singla01" /></a> </p>
 
-- 🌱 I’m currently learning **DSA in C++**
+- 🌱 I’m currently learning **DSA in JAVA**
 
 - 💬 Ask me about **my projects**
 
